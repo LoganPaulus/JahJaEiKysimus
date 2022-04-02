@@ -15,7 +15,4 @@ elif vastus1 == "JAH":
 elif vastus == "JAH":
     print("Palju õnne, pääsete kosmoselennule.")
 else:
-    print("Kahjuks te ei pääse kosmoselennule.")  
-
-       
-
+    print("Kahjuks te ei pääse kosmoselennule.")        
